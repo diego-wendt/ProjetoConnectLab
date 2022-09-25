@@ -1,0 +1,1 @@
+export {DevicesDetails} from './DevicesDetails'

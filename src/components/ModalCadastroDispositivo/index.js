@@ -1,0 +1,1 @@
+export {ModalCadastroDispositivo} from './ModalCadastroDispositivo'

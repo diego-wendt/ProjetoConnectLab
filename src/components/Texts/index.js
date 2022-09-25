@@ -1,0 +1,1 @@
+export {TextoDesc,TextoErro,TextoSubTitle,TextTitle,TextLabel} from './StyledTexts'
