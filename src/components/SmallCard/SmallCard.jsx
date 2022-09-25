@@ -5,7 +5,6 @@ import {
 } from "./StyledSmallCard";
 import PropTypes from "prop-types";
 import { CardPaper, Modal, TextoSubTitle, TextoDesc } from "./../../components";
-import imagem from "./../../assets/img/product.png";
 import { BsPower } from "react-icons/bs";
 import { useState } from "react";
 import { DevicesDetails } from "../../pages/DevicesDetails";
